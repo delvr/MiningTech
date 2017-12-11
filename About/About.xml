@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Mining Tech</name>
+	<author>delvr</author>
+	<targetVersion>0.18.0</targetVersion>
+	<url>https://github.com/delvr/MiningTech</url>
+	<description>
+Forbids mining until the relevant research project is completed. This makes for a more challenging early game, especially on Tribal starts.
+
+The research project is Machining by default but you can change it to any other project in the Mod Settings.
+
+Requires HugsLib: http://steamcommunity.com/sharedfiles/filedetails/?id=818773962
+  </description>
+</ModMetaData>
