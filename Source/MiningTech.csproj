@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<PropertyGroup>
+		<TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+		<RootNamespace>MiningTech</RootNamespace>
+		<OutputType>Library</OutputType>
+		<OutputPath>..\1.1\Assemblies</OutputPath>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Krafs.Rimworld.Ref" Version="1.1.2654">
+			<IncludeAssets>compile</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="UnlimitedHugs.Rimworld.HugsLib" Version="7.2.1">
+			<IncludeAssets>compile</IncludeAssets>
+		</PackageReference>
+		<Compile Include="src\**"/>
+	</ItemGroup>
+	<PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+		<Optimize>true</Optimize>
+	</PropertyGroup>	
+	<!-- Declared last for Rider: https://youtrack.jetbrains.com/issue/RIDER-25431 -->
+	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

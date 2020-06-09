@@ -2,13 +2,26 @@
 <ModMetaData>
 	<name>Mining Tech</name>
 	<author>delvr</author>
-	<targetVersion>0.18.0</targetVersion>
-	<url>https://github.com/delvr/MiningTech</url>
-	<description>
+	<packageId>delvr.MiningTech</packageId>
+	<description><![CDATA[
 Forbids mining until the relevant research project is completed. This makes for a more challenging early game, especially on Tribal starts.
 
 The research project is Machining by default but you can change it to any other project in the Mod Settings.
-
-Requires HugsLib: http://steamcommunity.com/sharedfiles/filedetails/?id=818773962
-  </description>
+]]>
+	</description>
+	<url>https://github.com/delvr/MiningTech</url>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependenciesByVersion>
+		<v1.1><li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib 7.2.1</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/tag/v7.2.1</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li></v1.1>
+	</modDependenciesByVersion>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+	</loadAfter>
 </ModMetaData>

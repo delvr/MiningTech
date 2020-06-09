@@ -1,11 +1,10 @@
 ![Mining Tech logo](About/Preview.png)
 
-![Version](https://img.shields.io/badge/Rimworld-B18-brightgreen.svg)
+![Mod Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
+![RimWorld Version](https://img.shields.io/badge/For%20RimWorld-1.1-brightgreen.svg)
 
 Forbids mining until the relevant research project is completed. This makes for a more challenging early game, especially on Tribal starts.
 
 The research project is Machining by default but you can change it to any other project in the Mod Settings.
 
-Requires [HugsLib](https://github.com/UnlimitedHugs/RimworldHugsLib).
-
-Available on [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=1228375660).
+Available on the[Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=1228375660).

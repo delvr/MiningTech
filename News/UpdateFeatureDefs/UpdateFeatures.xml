@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Name="UpdateFeatureBase" Abstract="true">
+		<modNameReadable>Mining Tech</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1228375660</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MiningTech_1_1_0_0</defName>
+		<assemblyVersion>1.1.0.0</assemblyVersion>
+		<content><![CDATA[
+Updated for RimWorld 1.1.
+]]>
+		</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
