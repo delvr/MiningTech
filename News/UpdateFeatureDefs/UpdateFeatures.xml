@@ -13,4 +13,12 @@ Updated for RimWorld 1.1.
 ]]>
 		</content>
 	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MiningTech_1_2_0_0</defName>
+		<assemblyVersion>1.2.0.0</assemblyVersion>
+		<content><![CDATA[
+Updated for RimWorld 1.2.
+]]>
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>

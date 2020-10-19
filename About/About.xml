@@ -12,6 +12,7 @@ The research project is Machining by default but you can change it to any other 
 	<url>https://github.com/delvr/MiningTech</url>
 	<supportedVersions>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<modDependenciesByVersion>
 		<v1.1><li>
@@ -20,6 +21,12 @@ The research project is Machining by default but you can change it to any other 
 			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/tag/v7.2.1</downloadUrl>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
 		</li></v1.1>
+		<v1.2><li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib 8.0.0</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/tag/v8.0.0</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li></v1.2>
 	</modDependenciesByVersion>
 	<loadAfter>
 		<li>UnlimitedHugs.HugsLib</li>

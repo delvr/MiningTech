@@ -4,13 +4,13 @@
 		<TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
 		<RootNamespace>MiningTech</RootNamespace>
 		<OutputType>Library</OutputType>
-		<OutputPath>..\1.1\Assemblies</OutputPath>
+		<OutputPath>..\1.2\Assemblies</OutputPath>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Krafs.Rimworld.Ref" Version="1.1.2654">
+		<PackageReference Include="Krafs.Rimworld.Ref" Version="1.2.2753">
 			<IncludeAssets>compile</IncludeAssets>
 		</PackageReference>
-		<PackageReference Include="UnlimitedHugs.Rimworld.HugsLib" Version="7.2.1">
+		<PackageReference Include="UnlimitedHugs.Rimworld.HugsLib" Version="8.0.0">
 			<IncludeAssets>compile</IncludeAssets>
 		</PackageReference>
 		<Compile Include="src\**"/>
