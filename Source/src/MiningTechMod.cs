@@ -5,7 +5,7 @@ using Verse;
 
 [assembly: AssemblyTitle("Mining Tech")]
 [assembly: AssemblyProduct("MiningTech")]
-[assembly: AssemblyVersion("1.2.0.0")]
+[assembly: AssemblyVersion("1.3.0.0")]
 
 namespace MiningTech
 {
