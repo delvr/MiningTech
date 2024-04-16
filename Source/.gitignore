@@ -1,3 +1,4 @@
-.idea/
 obj/
 *.user
+*.sln.DotSettings
+.DS_Store
