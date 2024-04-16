@@ -1,6 +1,7 @@
 ![Mining Tech logo](About/Preview.png)
 
 For RimWorld
+![1.5](https://img.shields.io/badge/1.5-brightgreen.svg)
 ![1.4](https://img.shields.io/badge/1.4-brightgreen.svg)
 ![1.3](https://img.shields.io/badge/1.3-brightgreen.svg)
 ![1.2](https://img.shields.io/badge/1.2-brightgreen.svg)

@@ -37,4 +37,12 @@ Updated for RimWorld 1.4.
 ]]>
 		</content>
 	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MiningTech_1_5_0_0</defName>
+		<assemblyVersion>1.5.0.0</assemblyVersion>
+		<content><![CDATA[
+Updated for RimWorld 1.5.
+]]>
+		</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>

@@ -5,15 +5,15 @@
 		<TargetFramework>net472</TargetFramework>
 		<TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
 		<OutputType>Library</OutputType>
-		<OutputPath>..\1.4\Assemblies</OutputPath>
+		<OutputPath>..\1.5\Assemblies</OutputPath>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 	</PropertyGroup>
 	<PropertyGroup Condition="$(Configuration.Contains('Release'))">
 		<Optimize>true</Optimize>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Krafs.Rimworld.Ref"             Version="1.4.3901" PrivateAssets="all" />
-		<PackageReference Include="UnlimitedHugs.Rimworld.HugsLib" Version="10.0.1"   PrivateAssets="all" />
+		<PackageReference Include="Krafs.Rimworld.Ref"             Version="1.5.4066" PrivateAssets="all" />
+		<PackageReference Include="UnlimitedHugs.Rimworld.HugsLib" Version="11.0.3"   PrivateAssets="all" />
 	</ItemGroup>
 	<!-- Declared last for Rider: https://youtrack.jetbrains.com/issue/RIDER-25431 -->
 	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
